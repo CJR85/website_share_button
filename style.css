@@ -32,3 +32,11 @@
   margin-bottom: 20px;
   line-height: 30px;
 }
+
+p::selection {
+  background: #fae88e;
+}
+
+h1::selection {
+  background: #fae88e;
+}
